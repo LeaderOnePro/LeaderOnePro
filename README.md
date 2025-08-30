@@ -33,7 +33,6 @@
 - **[GitTok-Flutter](https://github.com/LeaderOnePro/GitTok-Flutter)** - 跨平台GitTok应用，支持全平台部署
 - **[DeepDrone](https://github.com/LeaderOnePro/deepdrone)** - 无人机AI Agent，支持自然语言指令飞行控制
 - **城市雨水资源决策系统** - 基于国际算法的本土化Web GIS平台
-- **EvoAgentX贡献** - 参与自进化AI智能体生态系统开发
 
 ## 📚 持续学习
 
