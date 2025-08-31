@@ -55,15 +55,9 @@
   
 ### 📊 GitHub Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=LeaderOnePro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=LeaderOnePro&show_icons=true&theme=buefy&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&icon_color=0969DA">
-</picture>
+<img src="https://github-readme-stats.vercel.app/api?username=LeaderOnePro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&cache_seconds=86400" alt="GitHub Stats" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderOnePro&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeaderOnePro&layout=compact&theme=buefy&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F">
-</picture>
+<img src="https://streak-stats.demolab.com/?user=LeaderOnePro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaderOnePro&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9" alt="Contribution Graph" />
 
