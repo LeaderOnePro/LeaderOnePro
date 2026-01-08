@@ -55,7 +55,7 @@
   
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeaderOnePro&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79C0FF&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LeaderOnePro&show_icons=true&theme=radical" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=LeaderOnePro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
