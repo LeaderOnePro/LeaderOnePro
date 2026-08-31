@@ -27,13 +27,6 @@
 - 🎨 创新的用户界面设计与交互体验
 - 🔄 AI技术在传统应用场景中的落地实践
 
-## 🌟 精选项目
-
-- **[GitTok](https://github.com/LeaderOnePro/GitTok)** - 像刷TikTok一样浏览GitHub Trending，集成AI项目总结
-- **[GitTok-Flutter](https://github.com/LeaderOnePro/GitTok-Flutter)** - 跨平台GitTok应用，支持全平台部署
-- **[DeepDrone](https://github.com/LeaderOnePro/deepdrone)** - 无人机AI Agent，支持自然语言指令飞行控制
-- **城市雨水资源决策系统** - 基于国际算法的本土化Web GIS平台
-
 ## 📚 持续学习
 
 - AI前沿技术与开源项目研究
