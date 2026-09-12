@@ -22,7 +22,7 @@
 
 - 🛠️ 自然语言 → 硬件控制：构建 AI agent 可用的 MAVLink 地面站
 - 🎨 创新交互：双按钮 EML 公式编译与验证
-- 🌐 LLM 在 Web 工具中的落地（AI 摘要、智能推荐）
+- 🤖 具身智能 / Agent Infra 探索
 - 🤝 多智能体协作与任务调度优化
 
 ## 📚 持续学习
@@ -48,12 +48,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=LeaderOnePro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<br />
 
-[![👥 followers](https://img.shields.io/github/followers/LeaderOnePro?label=followers&logo=github&color=blue)](https://github.com/LeaderOnePro)
-[![👁 profile views](https://komarev.com/ghpvc/?username=LeaderOnePro&style=for-the-badge&color=blueviolet)](https://github.com/LeaderOnePro)
-[![📈 commits/year · GitTok](https://img.shields.io/github/commit-activity/y/LeaderOnePro/GitTok)]
-[![💻 top language · GitTok](https://img.shields.io/github/languages/top/LeaderOnePro/GitTok)]
 
 </div>
 
