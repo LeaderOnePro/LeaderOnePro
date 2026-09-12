@@ -48,7 +48,7 @@
 
 <img src="https://streak-stats.demolab.com/?user=LeaderOnePro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-
+<img src="https://git-hub-insights-virid.vercel.app/api/insight?username=LeaderOnePro&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 
 </div>
 
