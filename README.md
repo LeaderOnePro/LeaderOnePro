@@ -38,13 +38,15 @@
 
 ## 📬 联系我
 
-📧 leaderonepro@outlook.com
+📧 LeaderOnePro@outlook.com
 
 ---
 
 <div align="center">
   
 ### 📊 GitHub Analytics
+
+<img src="https://github-stats-extended.vercel.app/api?username=LeaderOnePro&theme=radical&show_icons=true&hide_border=true" alt="GitHub Stats" />
 
 <img src="https://streak-stats.demolab.com/?user=LeaderOnePro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
