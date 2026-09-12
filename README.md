@@ -9,11 +9,10 @@
 ## 🚀 技术栈
 
 ```
-🎬 创新项目: GitTok系列 | TikTok风格的GitHub发现平台
-🛸 无人机AI: DeepDrone | 自然语言指令飞行系统
-🌐 Web开发: Vue.js | React | FastAPI | 全栈解决方案
-📱 跨平台: Flutter | 移动端与桌面端应用
-🤖 AI/ML: 大型语言模型(LLM) | AI应用开发 | 多模型集成
+🛸 无人机: mavctl | 无头 MAVLink 地面控制 CLI（ArduPilot-first）
+🧮 创意实验: eml-calculator | AI 把公式编译成双按钮 EML 按键序列
+📺 发现平台: GitTok | TikTok 式浏览 GitHub Trending
+🌐 语言/框架: Python | TypeScript | Vue/React | FastAPI | Flutter
 🔧 工具: Git | Docker | CI/CD | Vercel
 ```
 
@@ -21,11 +20,10 @@
 
 目前，我深度沉浸在 **大型语言模型(LLM)** 和 **AI Agent** 的世界中，探索:
 
-- 🧠 AI智能体生态系统构建与自进化机制
-- 🛠️ 自然语言与硬件控制的深度结合
+- 🛠️ 自然语言 → 硬件控制：构建 AI agent 可用的 MAVLink 地面站
+- 🎨 创新交互：双按钮 EML 公式编译与验证
+- 🌐 LLM 在 Web 工具中的落地（AI 摘要、智能推荐）
 - 🤝 多智能体协作与任务调度优化
-- 🎨 创新的用户界面设计与交互体验
-- 🔄 AI技术在传统应用场景中的落地实践
 
 ## 📚 持续学习
 
@@ -40,7 +38,7 @@
 
 ## 📬 联系我
 
-[//]: # (欢迎通过GitHub Issues或邮件交流)
+📧 leaderonepro@outlook.com
 
 ---
 
@@ -48,11 +46,14 @@
   
 ### 📊 GitHub Analytics
 
-<img src="https://github-readme-stats.vercel.app/api?username=LeaderOnePro&show_icons=true&theme=radical" alt="GitHub Stats" />
-
 <img src="https://streak-stats.demolab.com/?user=LeaderOnePro&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LeaderOnePro&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=79C0FF&point=C9D1D9" alt="Contribution Graph" />
+<br />
+
+[![👥 followers](https://img.shields.io/github/followers/LeaderOnePro?label=followers&logo=github&color=blue)](https://github.com/LeaderOnePro)
+[![👁 profile views](https://komarev.com/ghpvc/?username=LeaderOnePro&style=for-the-badge&color=blueviolet)](https://github.com/LeaderOnePro)
+[![📈 commits/year · GitTok](https://img.shields.io/github/commit-activity/y/LeaderOnePro/GitTok)]
+[![💻 top language · GitTok](https://img.shields.io/github/languages/top/LeaderOnePro/GitTok)]
 
 </div>
 
